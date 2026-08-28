@@ -1,2 +1,2 @@
-# -ASVAB-Trainer
+#ASVAB-Trainer
     ASVAB AFQT study app
